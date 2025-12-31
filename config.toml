@@ -7,7 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 arch = "arm64-v8a"
 included-patches = "'Limit feed to followed profiles' 'Anonymous story viewing' 'Hide navigation buttons' 'Hide suggested content' 'Open links externally' 'Disable story auto flipping'"
 
@@ -41,10 +41,9 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Jiohotstar]
-apkmirror-dlurl = "https://apkmirror.com/apk/jiostar-india-private-limited/hotstar-2"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/jiostar-india-private-limited/hotstar-2"
 
 [Photos]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
 arch = "arm64-v8a"
 included-patches = "'Enable DCIM folders backup control'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
@@ -52,7 +51,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
 [Spotify]
-apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 included-patches = "'Custom theme'"
